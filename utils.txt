@@ -1,0 +1,1 @@
+msvc path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC
